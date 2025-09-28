@@ -1,8 +1,8 @@
 # detectjam
-Detect jammer by calculatin persistent repeat half or one step beyond.
+Detect jammer by calculating persistent repeat half or one step beyond.
 
 # Description
-We have experienced psnd -e | psnd -d chain sometimes doesn't matches whole even except the tail.
+We have been experienced psnd -e | psnd -d chain sometimes doesn't matches whole even except the tail.
 So the origin of this mismatches can be estimated as (i) bug or infection on our computer
 (ii) some ray things collide to memory cell then slips some parity check
 (iii) the context on aleph_(aleph_omega) bucket collision.
